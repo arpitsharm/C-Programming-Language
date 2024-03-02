@@ -1,0 +1,1 @@
+Exercise in this video is First User Input and second printing the table related to the user input.
